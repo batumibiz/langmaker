@@ -38,7 +38,7 @@ help:
 	@echo -e "                $(COLOR_CYAN)Accepts the following parameters$(COLOR_RESET)"
 	@echo -e "                $(COLOR_YELLOW)master$(COLOR_RESET)   Sample language for comparison."
 	@echo -e "                         Optional, default $(UNDERLINE)english$(COLOR_RESET)"
-	@echo -e "                $(COLOR_YELLOW)compare$(COLOR_RESET)  Language to compare with the sample."
+	@echo -e "                $(COLOR_YELLOW)check$(COLOR_RESET)  Language to compare with the sample."
 	@echo -e "                $(COLOR_CYAN)Example$(COLOR_RESET)"
 	@echo -e "                $(COLOR_PURPLE)make rewrite check=french$(COLOR_RESET)"
 	@echo -e "             or $(COLOR_PURPLE)make rewrite master=french check=georgian$(COLOR_RESET)"
