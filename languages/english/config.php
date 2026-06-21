@@ -10,7 +10,7 @@ return [
 	'install' => [
 		'name'        => 'English',
 		'description' => "English localization of OpenCart",
-		'version'     => '1.0',
+		'version'     => '1.1',
 		'author'      => 'OpenCart Community',
 		'link'        => 'https://www.opencart.com'
 	]
