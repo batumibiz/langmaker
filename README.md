@@ -1,7 +1,7 @@
 # LangMaker
 
-[![GitHub License](https://img.shields.io/github/license/oc-plus-plus/langmaker?color=green)](https://github.com/oc-plus-plus/langmaker/blob/main/LICENSE)
-[![coding standards](https://github.com/oc-plus-plus/langmaker/actions/workflows/coding-standards.yml/badge.svg)](https://github.com/oc-plus-plus/langmaker/actions/workflows/coding-standards.yml)
+[![GitHub License](https://img.shields.io/github/license/batumibiz/langmaker?color=green)](https://github.com/batumibiz/langmaker/blob/main/LICENSE)
+[![coding standards](https://github.com/batumibiz/langmaker/actions/workflows/coding-standards.yml/badge.svg)](https://github.com/batumibiz/langmaker/actions/workflows/coding-standards.yml)
 
 ## Automated creation of language modules
 
