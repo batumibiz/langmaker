@@ -1,11 +1,16 @@
 <?php
 
+// Paths
 define('ROOT_DIR', dirname(__DIR__));
 const TEMPLATE_DIR = __DIR__ . '/template/';
 const TMP_DIR = ROOT_DIR . '/tmp/';
 const LNG_DIR = ROOT_DIR . '/languages/';
 const DIST_DIR = ROOT_DIR . '/dist/';
 
+// Names
+const MODULE_NAME_PREFIX = 'lng_';
+
+// Colors
 const COLOR_GREEN = "\033[32m";
 const COLOR_RED = "\033[31m";
 const COLOR_RESET = "\033[0m";
@@ -49,15 +54,15 @@ foreach ($languages as $dir) {
 		continue;
 	}
 
-	$moduleName = 'language_' . basename($dir);
+	$moduleName = MODULE_NAME_PREFIX . basename($dir);
 	$moduleDir = TMP_DIR . $moduleName . '/';
 	$languageName = $config['settings']['name'];
 	$moduleClassName = ucfirst(preg_replace('/[^a-zA-Z0-9]/', '', basename($dir)));
 	$moduleFileName = strtolower($moduleClassName);
 	$moduleNameSpace = implode('', array_map('ucfirst', explode('_', $moduleName)));
 
-	$moduleSettingsKey = 'language_' . $moduleFileName;
-	$moduleStatusKey = 'language_' . $moduleFileName . '_status';
+	$moduleSettingsKey = MODULE_NAME_PREFIX . $moduleFileName;
+	$moduleStatusKey = MODULE_NAME_PREFIX . $moduleFileName . '_status';
 
 	///////////////////////////////////////////////////////////////////
 	// Creating the extension folder structure in a temporary folder //
