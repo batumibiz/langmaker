@@ -7,24 +7,18 @@ $_['text_security'] = 'Vous devez répondre à une question de sécurité chaque
 $_['text_code']     = 'Un e-mail a été envoyé à votre compte e-mail avec un code de sécurité. Entrez le code ci-dessous pour continuer.';
 $_['text_sent']     = 'Succès: Un e-mail a été envoyé à votre adresse e-mail contenant un code de sécurité!';
 $_['text_locked']   = 'Votre compte a été verrouillé!';
-/* LM ADDED */ $_['text_reset']    = 'Your account has been locked because of to many incorrect attempts at entering the security code. Click the reset button to receive a reset link via your email account.';
+$_['text_reset']    = 'Your account has been locked because of to many incorrect attempts at entering the security code. Click the reset button to receive a reset link via your email account.';
 $_['text_link']     = 'Succès: Un e-mail avec un lien de réinitialisation a été envoyé à votre adresse e-mail!';
 $_['text_unlocked'] = 'Succès: Votre compte a été déverrouillé!';
 $_['text_unlock']   = 'Votre compte a été verrouillé en raison de trop nombreuses tentatives incorrectes pour entrer le code de sécurité. Cliquez sur le bouton de réinitialisation pour recevoir un lien de réinitialisation via votre compte e-mail.';
-/* LM ADDED */ $_['text_failed']   = 'Could not reset your security code!';
+$_['text_failed']   = 'Could not reset your security code!';
 
 // Entry
 $_['entry_code']    = 'Code de Sécurité';
 
 // Button
-/* LM ADDED */ $_['button_send']   = 'Send';
-/* LM ADDED */ $_['button_reset']  = 'Reset';
+$_['button_send']   = 'Send';
+$_['button_reset']  = 'Reset';
 
 // Error
 $_['error_code']    = 'Le code de sécurité ne correspond pas!';
-
-/*
- * LM REMOVED
- * These keys were redundant and were removed.
- */
-// $_['text_resend'] = 'Succès: Un e-mail avec un code de sécurité a été envoyé à votre compte e-mail!';

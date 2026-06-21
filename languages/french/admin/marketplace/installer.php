@@ -9,7 +9,7 @@ $_['text_progress']          = 'Progression de l\'installation';
 $_['text_installed']         = 'Extensions installées';
 $_['text_info']              = 'Information sur les extensions';
 $_['text_install']           = 'Installation des fichiers à partir de %s envers %s de %s';
-/* LM ADDED */ $_['text_vendor']            = 'Refresh vendor files';
+$_['text_vendor']            = 'Refresh vendor files';
 
 // Column
 $_['column_image']           = 'Image';

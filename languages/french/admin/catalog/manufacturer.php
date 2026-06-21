@@ -7,12 +7,12 @@ $_['text_success']            = 'Succès: Vous avez modifié les fabricants!';
 $_['text_list']               = 'Liste des Fabricants';
 $_['text_add']                = 'Ajouter un Fabricant';
 $_['text_edit']               = 'Modifier le Fabricant';
-/* LM ADDED */ $_['text_general']            = 'General';
-/* LM ADDED */ $_['text_meta']               = 'Meta Tags';
+$_['text_general']            = 'General';
+$_['text_meta']               = 'Meta Tags';
 $_['text_keyword']            = 'N\'utilisez pas d\'espaces, remplacez plutôt les espaces par - et assurez-vous que l\'URL SEO soit unique à l\'échelle mondiale.';
-/* LM ADDED */ $_['text_filter']             = 'Filter';
-/* LM ADDED */ $_['text_general']            = 'General';
-/* LM ADDED */ $_['text_seo']                = 'SEO URL';
+$_['text_filter']             = 'Filter';
+$_['text_general']            = 'General';
+$_['text_seo']                = 'SEO URL';
 
 // Column
 $_['column_image']            = 'Image';
@@ -22,10 +22,10 @@ $_['column_action']           = 'Action';
 
 // Entry
 $_['entry_name']              = 'Nom du Fabricant';
-/* LM ADDED */ $_['entry_description']       = 'Description';
-/* LM ADDED */ $_['entry_meta_title']        = 'Meta Tag Title';
-/* LM ADDED */ $_['entry_meta_keyword']      = 'Meta Tag Keywords';
-/* LM ADDED */ $_['entry_meta_description']  = 'Meta Tag Description';
+$_['entry_description']       = 'Description';
+$_['entry_meta_title']        = 'Meta Tag Title';
+$_['entry_meta_keyword']      = 'Meta Tag Keywords';
+$_['entry_meta_description']  = 'Meta Tag Description';
 $_['entry_store']             = 'Magasins';
 $_['entry_keyword']           = 'Mot-clé';
 $_['entry_image']             = 'Image';
@@ -36,14 +36,8 @@ $_['entry_layout']            = 'Remplacement de la Disposition';
 $_['error_warning']           = 'Attention: Veuillez vérifier le formulaire attentivement pour les erreurs!';
 $_['error_permission']        = 'Attention: Vous n\'avez pas la permission de modifier les fabricants!';
 $_['error_name']              = 'Le nom du fabricant doit contenir entre 1 et 64 caractères!';
-/* LM ADDED */ $_['error_meta_title']        = 'Meta Title must be greater than 1 and less than 255 characters!';
+$_['error_meta_title']        = 'Meta Title must be greater than 1 and less than 255 characters!';
 $_['error_keyword']           = 'L\'URL SEO doit contenir entre 1 et 64 caractères!';
 $_['error_keyword_exists']    = 'L\'URL SEO doit être unique!';
 $_['error_keyword_character'] = 'Le mot-clé ne peut utiliser que les caractères a-z, 0-9, - et _ !';
 $_['error_product']           = 'Attention: Ce fabricant ne peut pas être supprimé car il est actuellement assigné à %s produits!';
-
-/*
- * LM REMOVED
- * These keys were redundant and were removed.
- */
-// $_['text_default'] = 'Par Défaut';

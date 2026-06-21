@@ -155,7 +155,7 @@ $_['error_upload_size']             = 'Avertissement: Le fichier téléversé d�
 //$_['ckeditor']                    = 'de';
 //$_['ckeditor']                    = 'de-ch';
 //$_['ckeditor']                    = 'el';
-/* LM ADDED */ $_['ckeditor']                      = 'en';
+$_['ckeditor']                      = 'en';
 //$_['ckeditor']                    = 'en-au';
 //$_['ckeditor']                    = 'en-ca';
 //$_['ckeditor']                    = 'en-gb';
@@ -213,7 +213,7 @@ $_['error_upload_size']             = 'Avertissement: Le fichier téléversé d�
 //$_['ckeditor']                    = 'zh-cn';
 
 // Datepicker
-/* LM ADDED */ $_['datepicker']                    = 'en-gb';
+$_['datepicker']                    = 'en-gb';
 //$_['datepicker']                  = 'af';
 //$_['datepicker']                  = 'ar-dz';
 //$_['datepicker']                  = 'ar-kw';

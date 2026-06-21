@@ -9,7 +9,7 @@ $_['text_list']                  = 'Liste des Produits';
 $_['text_add']                   = 'Ajouter un Produit';
 $_['text_edit']                  = 'Modifier le Produit';
 $_['text_variant_add']           = 'Ajouter une Variante';
-/* LM ADDED */ $_['text_description']           = 'Description';
+$_['text_description']           = 'Description';
 $_['text_meta']                  = 'Balises Méta';
 $_['text_model']                 = 'Modèle';
 $_['text_price']                 = 'Prix';
@@ -48,7 +48,7 @@ $_['text_semi_month']            = 'demi-mois';
 $_['text_month']                 = 'mois';
 $_['text_year']                  = 'année';
 $_['text_report']                = 'Rapports';
-/* LM ADDED */ $_['text_seo']                   = 'SEO URL';
+$_['text_seo']                   = 'SEO URL';
 
 // Column
 $_['column_name']                = 'Nom du Produit';
@@ -76,7 +76,7 @@ $_['entry_product_code']         = 'Codes de Produits';
 $_['entry_location']             = 'Localisation';
 $_['entry_shipping']             = 'Nécessite une Expédition';
 $_['entry_manufacturer']         = 'Fabricant';
-/* LM ADDED */ $_['entry_date_added']           = 'Date Added';
+$_['entry_date_added']           = 'Date d\'ajout';
 $_['entry_date_available']       = 'Date Disponible';
 $_['entry_quantity']             = 'Quantité';
 $_['entry_minimum']              = 'Quantité Minimale';
@@ -139,9 +139,3 @@ $_['error_keyword']              = 'L\'URL SEO doit contenir entre 1 et 64 carac
 $_['error_keyword_exists']       = 'L\'URL SEO doit être unique!';
 $_['error_keyword_character']    = 'Le mot-clé ne peut utiliser que les caractères a-z, 0-9, - et _ !';
 $_['error_required']             = '%s requis!';
-
-/*
- * LM REMOVED
- * These keys were redundant and were removed.
- */
-// $_['text_general'] = 'Général';

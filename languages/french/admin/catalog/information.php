@@ -11,7 +11,7 @@ $_['text_default']            = 'Par Défaut';
 $_['text_general']            = 'Général';
 $_['text_meta']               = 'Balises Méta';
 $_['text_keyword']            = 'N\'utilisez pas d\'espaces, remplacez plutôt les espaces par - et assurez-vous que l\'URL SEO soit unique à l\'échelle mondiale.';
-/* LM ADDED */ $_['text_seo']                = 'SEO URL';
+$_['text_seo']                = 'SEO URL';
 
 // Column
 $_['column_title']            = 'Titre de l\'Information';
