@@ -8,7 +8,7 @@ const LNG_DIR = ROOT_DIR . '/languages/';
 const DIST_DIR = ROOT_DIR . '/dist/';
 
 // Names
-const MODULE_NAME_PREFIX = 'lng_';
+const MODULE_NAME_PREFIX = 'language_';
 
 // Colors
 const COLOR_GREEN = "\033[32m";
