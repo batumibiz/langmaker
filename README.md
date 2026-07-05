@@ -1,7 +1,7 @@
 # LangMaker
 
-[![GitHub License](https://img.shields.io/github/license/batumibiz/langmaker?color=green)](https://github.com/batumibiz/langmaker/blob/main/LICENSE)
-[![coding standards](https://github.com/batumibiz/langmaker/actions/workflows/coding-standards.yml/badge.svg)](https://github.com/batumibiz/langmaker/actions/workflows/coding-standards.yml)
+[![GitHub License](https://img.shields.io/github/license/oc-plus/langmaker)](https://github.com/oc-plus/langmaker/blob/main/LICENSE)
+[![coding standards](https://github.com/oc-plus/langmaker/actions/workflows/coding-standards.yml/badge.svg)](https://github.com/oc-plus/langmaker/actions/workflows/coding-standards.yml)
 
 ## Automated creation of language modules
 
@@ -77,5 +77,5 @@ Please see [LICENSE][license] for more information.
 
 [yagni]: https://en.wikipedia.org/wiki/YAGNI
 [kiss]: https://en.wikipedia.org/wiki/KISS_principle
-[contributing]: https://github.com/oc-plus-plus/langmaker/blob/main/.github/CONTRIBUTING.md
-[license]: https://github.com/oc-plus-plus/langmaker/blob/main/LICENSE
+[contributing]: https://github.com/oc-plus/langmaker/blob/main/.github/CONTRIBUTING.md
+[license]: https://github.com/oc-plus/langmaker/blob/main/LICENSE

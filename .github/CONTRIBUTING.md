@@ -85,7 +85,7 @@ composer check
 ```
 
 
-[github]: https://github.com/oc-plus-plus/langmaker
-[contributor]: https://github.com/oc-plus-plus/langmaker/blob/master/.github/CODE_OF_CONDUCT.md
-[issues]: https://github.com/oc-plus-plus/langmaker/issues
-[pull requests]: https://github.com/oc-plus-plus/langmaker/pulls
+[github]: https://github.com/oc-plus/langmaker
+[contributor]: https://github.com/oc-plus/langmaker/blob/master/.github/CODE_OF_CONDUCT.md
+[issues]: https://github.com/oc-plus/langmaker/issues
+[pull requests]: https://github.com/oc-plus/langmaker/pulls
