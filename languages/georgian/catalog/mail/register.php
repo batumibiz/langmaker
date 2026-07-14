@@ -1,18 +1,18 @@
 <?php
 // Text
-$_['text_subject']        = '%s - Thank you for registering';
-$_['text_welcome']        = 'Welcome and thank you for registering at %s!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_service']        = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_customer']   = 'New customer';
-$_['text_signup']         = 'A new customer has signed up:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_subject']        = '%s - გმადლობთ რეგისტრაციისთვის';
+$_['text_welcome']        = 'მოგესალმებით და გმადლობთ, რომ დარეგისტრირდით %s-ზე!';
+$_['text_login']          = 'თქვენი ანგარიში წარმატებით შეიქმნა და შეგიძლიათ შეხვიდეთ სისტემაში თქვენი ელ. ფოსტისა და პაროლის გამოყენებით ჩვენს ვებგვერდზე ან შემდეგ ბმულზე:';
+$_['text_approval']       = 'თქვენი ანგარიში საჭიროებს დადასტურებას შესვლამდე. დადასტურების შემდეგ შეძლებთ სისტემაში შესვლას თქვენი ელ. ფოსტისა და პაროლის გამოყენებით ჩვენს ვებგვერდზე ან შემდეგ ბმულზე:';
+$_['text_service']        = 'სისტემაში შესვლის შემდეგ შეძლებთ სხვა სერვისების გამოყენებას, მათ შორის წარსული შეკვეთების ნახვას, ინვოისების ბეჭდვას და თქვენი ანგარიშის ინფორმაციის რედაქტირებას.';
+$_['text_thanks']         = 'მადლობით,';
+$_['text_new_customer']   = 'ახალი მომხმარებელი';
+$_['text_signup']         = 'დარეგისტრირდა ახალი მომხმარებელი:';
+$_['text_customer_group'] = 'მომხმარებელთა ჯგუფი:';
+$_['text_firstname']      = 'სახელი:';
+$_['text_lastname']       = 'გვარი:';
+$_['text_email']          = 'ელ. ფოსტა:';
+$_['text_telephone']      = 'ტელეფონი:';
 
 // Button
-$_['button_login']        = 'Login';
+$_['button_login']        = 'ავტორიზაცია';

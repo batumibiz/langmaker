@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_subject']  = '%s - GDPR Export/Deletion Request!';
-$_['text_export']   = 'Export Data Request';
-$_['text_remove']   = 'Account Deletion Request';
-$_['text_gdpr']     = 'A GDPR request from this email address, To confirm this action please click on the link below:';
-$_['text_ip']       = 'The IP used to make this request was:';
-$_['text_contact']  = 'If you did not make this request please contact the store owner here:';
-$_['text_thanks']   = 'Thanks,';
-$_['text_ignore']   = 'If you did not created this request, please ignore this email.';
+$_['text_subject']  = '%s - GDPR მონაცემების ექსპორტის/წაშლის მოთხოვნა!';
+$_['text_export']   = 'მონაცემების ექსპორტის მოთხოვნა';
+$_['text_remove']   = 'ანგარიშის წაშლის მოთხოვნა';
+$_['text_gdpr']     = 'ამ ელ. ფოსტის მისამართიდან შემოვიდა GDPR მოთხოვნა. მოქმედების დასადასტურებლად დააჭირეთ ქვემოთ მოცემულ ბმულს:';
+$_['text_ip']       = 'ამ მოთხოვნის გასაკეთებლად გამოყენებული IP მისამართია:';
+$_['text_contact']  = 'თუ თქვენ არ გაგზავნიხართ ეს მოთხოვნა, გთხოვთ, დაუკავშირდეთ მაღაზიის მფლობელს აქ:';
+$_['text_thanks']   = 'მადლობით,';
+$_['text_ignore']   = 'თუ თქვენ არ გაგზავნიხართ ეს მოთხოვნა, უგულებელყავით ეს წერილი.';
 
 // Buttons
-$_['button_export'] = 'I confirm export my data';
-$_['button_remove'] = 'I confirm delete my account';
+$_['button_export'] = 'ვადასტურებ ჩემი მონაცემების ექსპორტს';
+$_['button_remove'] = 'ვადასტურებ ჩემი ანგარიშის წაშლას';

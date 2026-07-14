@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title']   = 'Payment Methods';
+$_['heading_title']   = 'გადახდის მეთოდები';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_no_results'] = 'You have no payment methods in your account.';
+$_['text_account']    = 'ანგარიში';
+$_['text_no_results'] = 'თქვენს ანგარიშში გადახდის მეთოდები არ არის.';

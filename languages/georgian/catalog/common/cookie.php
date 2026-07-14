@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_success']    = 'Thank you for letting us know your choice!';
-$_['text_cookie']     = 'This website uses cookies. For more information <a href="%s" class="alert-link modal-link">click here</a>.';
+$_['text_success']    = 'გმადლობთ, რომ გვაცნობეთ თქვენი გადაწყვეტილება!';
+$_['text_cookie']     = 'ეს ვებგვერდი იყენებს cookie-ებს. დამატებითი ინფორმაციისთვის <a href="%s" class="alert-link modal-link">დააჭირეთ აქ</a>.';
 
 // Buttons
-$_['button_agree']    = 'Yes, that\'s fine!';
-$_['button_disagree'] = 'No Thanks!';
+$_['button_agree']    = 'დიახ, კარგია!';
+$_['button_disagree'] = 'არა, გმადლობთ!';

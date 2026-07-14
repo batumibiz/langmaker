@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title'] = 'Protect your account';
+$_['heading_title'] = 'დაიცავით თქვენი ანგარიში';
 
 // Text
-$_['text_security'] = 'You must answer security question whenever you login from an unknown device or computer.';
-$_['text_code']     = 'An email has been sent to your email account with a security code. Enter the code below to continue.';
-$_['text_sent']     = 'Success: An email has been sent to your email account with a security code!';
-$_['text_locked']   = 'Your account has been locked!';
-$_['text_reset']    = 'Your account has been locked because of to many incorrect attempts at entering the security code. Click the reset button to receive a reset link via your email account.';
-$_['text_link']     = 'Success: An email with a reset link has been sent your email address!';
-$_['text_unlocked'] = 'Success: Your account has been unlocked!';
-$_['text_unlock']   = 'Your account has been locked because of to many incorrect attempts at entering the security code. Click the reset button to receive a reset link via your email account.';
-$_['text_failed']   = 'Could not reset your security code!';
+$_['text_security'] = 'უცნობი მოწყობილობიდან ან კომპიუტერიდან შესვლისას თქვენ უნდა უპასუხოთ უსაფრთხოების კითხვას.';
+$_['text_code']     = 'თქვენს ელ. ფოსტაზე გამოგზავნილია უსაფრთხოების კოდი. გასაგრძელებლად შეიყვანეთ კოდი ქვემოთ.';
+$_['text_sent']     = 'წარმატება: თქვენს ელ. ფოსტაზე გამოგზავნილია უსაფრთხოების კოდი!';
+$_['text_locked']   = 'თქვენი ანგარიში დაბლოკილია!';
+$_['text_reset']    = 'თქვენი ანგარიში დაიბლოკა უსაფრთხოების კოდის არასწორად შეყვანის მრავალჯერადი მცდელობის გამო. დააჭირეთ გადატვირთვის ღილაკს, რათა მიიღოთ გადატვირთვის ბმული თქვენს ელ. ფოსტაზე.';
+$_['text_link']     = 'წარმატება: თქვენს ელ. ფოსტის მისამართზე გამოგზავნილია ბმული პაროლის აღსადგენად!';
+$_['text_unlocked'] = 'წარმატება: თქვენი ანგარიში განბლოკილია!';
+$_['text_unlock']   = 'თქვენი ანგარიში დაიბლოკა უსაფრთხოების კოდის არასწორად შეყვანის მრავალჯერადი მცდელობის გამო. დააჭირეთ გადატვირთვის ღილაკს, რათა მიიღოთ გადატვირთვის ბმული თქვენს ელ. ფოსტაზე.';
+$_['text_failed']   = 'უსაფრთხოების კოდის გადატვირთვა ვერ მოხერხდა!';
 
 // Entry
-$_['entry_code']    = 'Security Code';
+$_['entry_code']    = 'უსაფრთხოების კოდი';
 
 // Button
-$_['button_send']   = 'Send';
-$_['button_reset']  = 'Reset';
+$_['button_send']   = 'გაგზავნა';
+$_['button_reset']  = 'გადატვირთვა';
 
 // Error
-$_['error_code']    = 'Security code does not match!';
+$_['error_code']    = 'უსაფრთხოების კოდი არასწორია!';

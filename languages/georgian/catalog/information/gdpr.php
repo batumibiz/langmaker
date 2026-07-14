@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']     = 'General Data Protection Regulation Request';
+$_['heading_title']     = 'პერსონალურ მონაცემთა დაცვის ზოგადი რეგულაციის მოთხოვნა';
 
 // Text
-$_['text_account']      = 'Account';
-$_['text_gdpr']         = 'You can view %s GDPR policy on the <a href="%s" target="_blank">%s</a> page.';
-$_['text_verification'] = 'Account Verification';
-$_['text_email']        = 'Before we can carry out any GDPR requests we must validate you account. Please enter your E-Mail Address below.';
-$_['text_action']       = 'Choose an action';
-$_['text_export']       = 'Export Personal Data';
-$_['text_remove']       = 'Remove Personal Data';
-$_['text_warning']      = 'Warning: You will lose access to your account!';
-$_['text_access']       = 'You will no longer have access to your %s account.';
-$_['text_history']      = 'You will no longer have access to your order history, invoices, wishlists or downloads.';
-$_['text_limit']        = 'Account deletion requests will be processed after <strong>%s days</strong> so any fraud detection, chargebacks or refunds can be processed.';
-$_['text_success']      = 'Success: An email has been sent to your email address!';
-$_['text_cancel']		= 'Cancel';
+$_['text_account']      = 'ანგარიში';
+$_['text_gdpr']         = '%s-ის GDPR პოლიტიკის ნახვა შეგიძლიათ <a href="%s" target="_blank">%s</a> გვერდზე.';
+$_['text_verification'] = 'ანგარიშის ვერიფიკაცია';
+$_['text_email']        = 'GDPR მოთხოვნის შესრულებამდე საჭიროა თქვენი ანგარიშის დადასტურება. გთხოვთ, ქვემოთ შეიყვანოთ თქვენი ელ. ფოსტის მისამართი.';
+$_['text_action']       = 'აირჩიეთ მოქმედება';
+$_['text_export']       = 'პირადი მონაცემების ექსპორტი';
+$_['text_remove']       = 'პირადი მონაცემების წაშლა';
+$_['text_warning']      = 'გაფრთხილება: თქვენ დაკარგავთ წვდომას თქვენს ანგარიშზე!';
+$_['text_access']       = 'თქვენ აღარ გექნებათ წვდომა თქვენს %s ანგარიშზე.';
+$_['text_history']      = 'თქვენ აღარ გექნებათ წვდომა შეკვეთების ისტორიაზე, ინვოისებზე, რჩეულთა სიებზე ან ჩამოტვირთვებზე.';
+$_['text_limit']        = 'ანგარიშის წაშლის მოთხოვნები დამუშავდება <strong>%s დღის</strong> შემდეგ, რათა შესაძლებელი იყოს თაღლითობის აღმოჩენის, დავალიანების გადახდის ან თანხის დაბრუნების პროცედურების დასრულება.';
+$_['text_success']      = 'წარმატება: თქვენს ელ. ფოსტის მისამართზე გამოგზავნილია წერილი!';
+$_['text_cancel']		= 'გაუქმება';
 
 // Entry
-$_['entry_email']       = 'E-Mail';
+$_['entry_email']       = 'ელ. ფოსტა';
 
 // Error
-$_['error_email']       = 'E-Mail Address does not appear to be valid!';
-$_['error_action']      = 'You must select a valid GDPR action!';
+$_['error_email']       = 'ელ. ფოსტის მისამართი არასწორია!';
+$_['error_action']      = 'გთხოვთ, აირჩიოთ სწორი GDPR მოქმედება!';

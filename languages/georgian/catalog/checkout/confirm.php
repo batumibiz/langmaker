@@ -1,15 +1,15 @@
 <?php
 // Text
-$_['text_model']                 = 'Model';
+$_['text_model']                 = 'მოდელი';
 $_['text_change_order']          = 'შეკვეთის შეცვლა';
-$_['text_subscription']          = 'Subscription';
-$_['text_subscription_trial']    = '%s every %d %s(s) for %d payment(s) then ';
-$_['text_subscription_duration'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_subscription_cancel']   = '%s every %d %s(s) until canceled';
-$_['text_points']                = 'Reward Points';
+$_['text_subscription']          = 'გამოწერა';
+$_['text_subscription_trial']    = '%s ყოველ %d %s-ში, %d გადახდისთვის, შემდეგ ';
+$_['text_subscription_duration'] = '%s ყოველ %d %s-ში, %d გადახდისთვის';
+$_['text_subscription_cancel']   = '%s ყოველ %d %s-ში, გაუქმებამდე';
+$_['text_points']                = 'საჩუქრის ქულები';
 
 // Column
-$_['column_product']    = 'Product';
-$_['column_quantity']   = 'Quantity';
-$_['column_price']      = 'Unit Price';
-$_['column_total']      = 'Total';
+$_['column_product']    = 'პროდუქტი';
+$_['column_quantity']   = 'რაოდენობა';
+$_['column_price']      = 'ერთ. ღირებულება';
+$_['column_total']      = 'სულ';

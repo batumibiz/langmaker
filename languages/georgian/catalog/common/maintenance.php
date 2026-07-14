@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title']    = 'Maintenance';
+$_['heading_title']    = 'ტექნიკური სამუშაოები';
 
 // Text
-$_['text_maintenance'] = 'Maintenance';
-$_['text_message']     = '<h1 style="text-align:center;">We are currently performing some scheduled maintenance. <br/>We will be back as soon as possible. Please check back soon.</h1>';
+$_['text_maintenance'] = 'ტექნიკური სამუშაოები';
+$_['text_message']     = '<h1 style="text-align:center;">ამჟამად მიმდინარეობს დაგეგმილი ტექნიკური სამუშაოები. <br/>ჩვენ დავუბრუნდებით მუშაობას რაც შეიძლება მალე. გთხოვთ, მოგვიანებით შემოგვინახოთ.</h1>';

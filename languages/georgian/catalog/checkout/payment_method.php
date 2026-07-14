@@ -3,21 +3,21 @@
 $_['heading_title']          = 'გადახდის მეთოდი';
 
 // Text
-$_['text_payment_method']    = 'Payment method options';
-$_['text_payment']           = 'Please select the preferred payment method to use for this order.';
-$_['text_comments']          = 'Add Comments About Your Order';
-$_['text_agree']             = 'I have read and agree to the <a href="%s" class="modal-link"><b>%s</b></a>';
-$_['text_success']           = 'Success: You have changed payment method!';
-$_['text_comment']           = 'Success: Comment added!';
+$_['text_payment_method']    = 'გადახდის მეთოდის ვარიანტები';
+$_['text_payment']           = 'გთხოვთ, აირჩიოთ სასურველი გადახდის მეთოდი ამ შეკვეთისთვის.';
+$_['text_comments']          = 'დაამატეთ კომენტარი თქვენს შეკვეთასთან დაკავშირებით';
+$_['text_agree']             = 'წავიკითხე და ვეთანხმები <a href="%s" class="modal-link"><b>%s</b></a>-ს';
+$_['text_success']           = 'წარმატება: გადახდის მეთოდი შეიცვალა!';
+$_['text_comment']           = 'წარმატება: კომენტარი დაემატა!';
 
 // Entry
 $_['entry_payment_method']   = 'აირჩიეთ გადახდის მეთოდი...';
 
 // Error
-$_['error_order']            = 'Order not found! Please refresh the page.';
-$_['error_customer']         = 'Customer required!';
-$_['error_payment_address']  = 'Payment address required!';
-$_['error_shipping_address'] = 'Shipping address required!';
-$_['error_shipping_method']  = 'Shipping method required!';
-$_['error_payment_method']   = 'Payment method required!';
-$_['error_no_payment']       = 'No Payment options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_order']            = 'შეკვეთა ვერ მოიძებნა! გთხოვთ, განაახლოთ გვერდი.';
+$_['error_customer']         = 'მომხმარებელი სავალდებულოა!';
+$_['error_payment_address']  = 'გადახდის მისამართი სავალდებულოა!';
+$_['error_shipping_address'] = 'მიწოდების მისამართი სავალდებულოა!';
+$_['error_shipping_method']  = 'მიწოდების მეთოდი სავალდებულოა!';
+$_['error_payment_method']   = 'გადახდის მეთოდი სავალდებულოა!';
+$_['error_no_payment']       = 'გადახდის მეთოდები ხელმისაწვდომი არ არის. დახმარებისთვის გთხოვთ <a href="%s">დაგვიკავშირდეთ</a>!';

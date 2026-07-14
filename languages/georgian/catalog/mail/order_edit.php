@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_subject']      = '%s - Order Update %s';
-$_['text_order_id']     = 'Order ID:';
-$_['text_date_added']   = 'Date Added:';
-$_['text_order_status'] = 'Your order has been updated to the following status:';
-$_['text_comment']      = 'The comments for your order are:';
-$_['text_link']         = 'To view your order click on the link below:';
-$_['text_footer']       = 'Please reply to this email if you have any questions.';
+$_['text_subject']      = '%s - შეკვეთის განახლება %s';
+$_['text_order_id']     = 'შეკვეთის ID:';
+$_['text_date_added']   = 'დამატების თარიღი:';
+$_['text_order_status'] = 'თქვენი შეკვეთის სტატუსი განახლდა შემდეგზე:';
+$_['text_comment']      = 'თქვენი შეკვეთის კომენტარებია:';
+$_['text_link']         = 'შეკვეთის სანახავად დააჭირეთ ქვემოთ მოცემულ ბმულს:';
+$_['text_footer']       = 'თუ გაქვთ შეკითხვები, უპასუხეთ ამ წერილს.';

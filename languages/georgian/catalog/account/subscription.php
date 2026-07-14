@@ -1,52 +1,52 @@
 <?php
 // Heading
-$_['heading_title']              = 'Subscriptions';
+$_['heading_title']              = 'გამოწერები';
 
 // Text
-$_['text_account']               = 'Account';
-$_['text_success']               = 'Success: Your subscription has successfully been canceled!';
-$_['text_subscription']          = 'Subscription #%s';
-$_['text_subscription_id']       = 'Subscription ID';
-$_['text_order_id']              = 'Order ID';
-$_['text_shipping_address']      = 'Shipping Address';
-$_['text_shipping_method']       = 'Shipping Method';
-$_['text_payment_address']       = 'Payment Address';
-$_['text_payment_method']        = 'Payment Method';
-$_['text_model']                 = 'Model';
-$_['text_subscription_plan']     = 'Subscription Plan';
-$_['text_subscription_trial']    = '%s every %d %s(s) for %d payment(s) then ';
-$_['text_subscription_duration'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_subscription_cancel']   = '%s every %d %s(s) until canceled';
-$_['text_day']                   = 'day';
-$_['text_week']                  = 'week';
-$_['text_semi_month']            = 'half-month';
-$_['text_month']                 = 'month';
-$_['text_year']                  = 'year';
-$_['text_quantity']              = 'Quantity';
-$_['text_date_next']             = 'Date Next';
-$_['text_remaining']             = 'Remaining';
-$_['text_history']               = 'Subscription History';
-$_['text_order']                 = 'Order History';
-$_['text_no_subscription']       = 'No subscriptions found!';
+$_['text_account']               = 'ანგარიში';
+$_['text_success']               = 'წარმატება: თქვენი გამოწერა წარმატებით გაუქმდა!';
+$_['text_subscription']          = 'გამოწერა #%s';
+$_['text_subscription_id']       = 'გამოწერის ID';
+$_['text_order_id']              = 'შეკვეთის ID';
+$_['text_shipping_address']      = 'მიწოდების მისამართი';
+$_['text_shipping_method']       = 'მიწოდების მეთოდი';
+$_['text_payment_address']       = 'გადახდის მისამართი';
+$_['text_payment_method']        = 'გადახდის მეთოდი';
+$_['text_model']                 = 'მოდელი';
+$_['text_subscription_plan']     = 'გამოწერის გეგმა';
+$_['text_subscription_trial']    = '%s ყოველ %d %s-ში, %d გადახდისთვის, შემდეგ ';
+$_['text_subscription_duration'] = '%s ყოველ %d %s-ში, %d გადახდისთვის';
+$_['text_subscription_cancel']   = '%s ყოველ %d %s-ში, გაუქმებამდე';
+$_['text_day']                   = 'დღე';
+$_['text_week']                  = 'კვირა';
+$_['text_semi_month']            = 'ნახევარი თვე';
+$_['text_month']                 = 'თვე';
+$_['text_year']                  = 'წელი';
+$_['text_quantity']              = 'რაოდენობა';
+$_['text_date_next']             = 'შემდეგი თარიღი';
+$_['text_remaining']             = 'დარჩენილია';
+$_['text_history']               = 'გამოწერების ისტორია';
+$_['text_order']                 = 'შეკვეთების ისტორია';
+$_['text_no_subscription']       = 'გამოწერები ვერ მოიძებნა!';
 
 // Column
-$_['column_subscription_id']     = 'Subscription ID';
-$_['column_product']             = 'Product';
-$_['column_product_total']       = 'No. of Products';
-$_['column_description']         = 'Description';
-$_['column_order_id']            = 'Order ID';
-$_['column_status']              = 'Status';
-$_['column_quantity']            = 'Quantity';
-$_['column_trial_price']         = 'Trial Price';
-$_['column_price']               = 'Price';
-$_['column_total']               = 'Total';
-$_['column_comment']             = 'Comment';
-$_['column_date_added']          = 'Date Added';
+$_['column_subscription_id']     = 'გამოწერის ID';
+$_['column_product']             = 'პროდუქტი';
+$_['column_product_total']       = 'პროდუქტების რაოდენობა';
+$_['column_description']         = 'აღწერა';
+$_['column_order_id']            = 'შეკვეთის ID';
+$_['column_status']              = 'სტატუსი';
+$_['column_quantity']            = 'რაოდენობა';
+$_['column_trial_price']         = 'საცდელი ფასი';
+$_['column_price']               = 'ფასი';
+$_['column_total']               = 'ჯამი';
+$_['column_comment']             = 'კომენტარი';
+$_['column_date_added']          = 'დამატების თარიღი';
 
 // Button
-$_['button_cancel']              = 'Cancel Subscription';
+$_['button_cancel']              = 'გამოწერის გაუქმება';
 
 // Error
-$_['error_subscription']         = 'Subscription could not be found!';
-$_['error_duration']             = 'Subscription can not be canceled until %s more orders!';
-$_['error_canceled']             = 'Subscription already canceled!';
+$_['error_subscription']         = 'გამოწერა ვერ მოიძებნა!';
+$_['error_duration']             = 'გამოწერის გაუქმება შეუძლებელია, სანამ არ დასრულდება კიდევ %s შეკვეთა!';
+$_['error_canceled']             = 'გამოწერა უკვე გაუქმებულია!';

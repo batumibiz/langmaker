@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'Failed Payment!';
+$_['heading_title'] = 'გადახდა ვერ განხორციელდა!';
 
 // Text
-$_['text_basket']   = 'Shopping Cart';
-$_['text_checkout'] = 'Checkout';
-$_['text_failure']  = 'Failed Payment';
-$_['text_message']  = '<p>There was a problem processing your payment and the order did not complete.</p>
+$_['text_basket']   = 'კალათა';
+$_['text_checkout'] = 'შეკვეთის გაფორმება';
+$_['text_failure']  = 'გადახდის შეცდომა';
+$_['text_message']  = '<p>თქვენი გადახდის დამუშავებისას წარმოიშვა პრობლემა და შეკვეთა ვერ დასრულდა.</p>
 
-<p>Possible reasons are:</p>
+<p>შესაძლო მიზეზებია:</p>
 <ul>
-  <li>Insufficient funds</li>
-  <li>Verification failed</li>
+  <li>არასაკმარისი თანხა</li>
+  <li>ვერიფიკაცია ვერ განხორციელდა</li>
 </ul>
 
-<p>Please try to order again using a different payment method.</p>
+<p>გთხოვთ, სცადოთ შეკვეთა თავიდან, სხვა გადახდის მეთოდის გამოყენებით.</p>
 
-<p>If the problem persists please <a href="%s">contact us</a> with the details of the order you are trying to place.</p>
+<p>თუ პრობლემა გრძელდება, გთხოვთ <a href="%s">დაგვიკავშირდეთ</a> იმ შეკვეთის დეტალებით, რომლის გაფორმებასაც ცდილობთ.</p>
 ';

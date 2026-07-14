@@ -9,8 +9,8 @@ $_['text_forgotten']           = 'პაროლის აღდგენა';
 $_['text_your_email']          = 'თქვენი ელ. ფოსტა';
 $_['text_email']               = 'შეიყვანეთ თქვენი ელ. ფოსტა, რომელზედაც მიიღებთ პაროლის აღსადგენ ბმულს';
 $_['text_password']            = 'შეიყვანეთ ახალი პაროლი, რომლის გამოყენებაც გსურთ.';
-$_['text_sent']                = 'An email with a confirmation link has been sent to your email address!';
-$_['text_reset']               = 'Success: Your password has been successfully updated.';
+$_['text_sent']                = 'თქვენს ელ. ფოსტის მისამართზე გამოგზავნილია დამადასტურებელი ბმული!';
+$_['text_reset']               = 'წარმატება: თქვენი პაროლი წარმატებით განახლდა.';
 
 // Entry
 $_['entry_email']              = 'ელ. ფოსტა';
@@ -19,13 +19,13 @@ $_['entry_password']           = 'ახალი პაროლი';
 $_['entry_confirm']            = 'დადასტურება';
 
 // Error
-$_['error_email']              = 'Warning: The E-Mail Address was not found in our records, please try again!';
-$_['error_not_found']          = 'Warning: The E-Mail Address was not found in our records!';
+$_['error_email']              = 'გაფრთხილება: ეს ელ. ფოსტის მისამართი ვერ მოიძებნა ჩვენს ბაზაში, გთხოვთ სცადოთ თავიდან!';
+$_['error_not_found']          = 'გაფრთხილება: ეს ელ. ფოსტის მისამართი ვერ მოიძებნა ჩვენს ბაზაში!';
 $_['error_password']           = 'პაროლი უნდა იყოს 4-დან 20 სიმბოლომდე!';
-$_['error_password_uppercase'] = 'uppercase';
-$_['error_password_lowercase'] = 'lowercase';
-$_['error_password_number']    = 'number';
-$_['error_password_symbol']    = 'symbol';
-$_['error_password_length']    = 'Password must be between %d and 20 characters!';
+$_['error_password_uppercase'] = 'დიდი ასო';
+$_['error_password_lowercase'] = 'პატარა ასო';
+$_['error_password_number']    = 'ციფრი';
+$_['error_password_symbol']    = 'სიმბოლო';
+$_['error_password_length']    = 'პაროლი უნდა შედგებოდეს %d-დან 20 სიმბოლომდე!';
 $_['error_confirm']            = 'პაროლი და პაროლის გამეორება არ ემთხვევა ერთმანეთს';
 $_['error_code']               = 'პაროლის გადატვირთვის კოდი არასწორია ან ადრე იყო გამოყენებული!';

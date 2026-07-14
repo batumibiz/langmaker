@@ -19,5 +19,5 @@ $_['column_price']    = 'ფასი';
 $_['column_action']   = 'ქმედება';
 
 // Error
-$_['error_product']   = 'Warning: Product could not be found!';
-$_['error_login']     = 'Warning: You must <a href="%s">login</a> or <a href="%s">create an account</a> to remove items from your <a href="%s">wish list</a>!';
+$_['error_product']   = 'გაფრთხილება: პროდუქტი ვერ მოიძებნა!';
+$_['error_login']     = 'გაფრთხილება: თქვენ უნდა <a href="%s">გაიაროთ ავტორიზაცია</a> ან <a href="%s">შექმნათ ანგარიში</a>, რომ წაშალოთ ნივთები თქვენი <a href="%s">რჩეულთა სიიდან</a>!';

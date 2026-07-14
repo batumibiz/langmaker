@@ -12,11 +12,11 @@ $_['entry_password']           = 'პაროლი';
 $_['entry_confirm']            = 'გაიმეორეთ პაროლი';
 
 // Error
-$_['error_token']              = 'Warning: Password token invalid!';
-$_['error_password']           = 'Password must be between 6 and 20 characters!';
-$_['error_password_uppercase'] = 'uppercase';
-$_['error_password_lowercase'] = 'lowercase';
-$_['error_password_number']    = 'number';
-$_['error_password_symbol']    = 'symbol';
-$_['error_password_length']    = 'Password must be between %d and 40 characters!';
-$_['error_confirm']            = 'Password confirmation does not match password!';
+$_['error_token']              = 'გაფრთხილება: პაროლის ტოკენი არასწორია!';
+$_['error_password']           = 'პაროლი უნდა შედგებოდეს 6-დან 20 სიმბოლომდე!';
+$_['error_password_uppercase'] = 'დიდი ასო';
+$_['error_password_lowercase'] = 'პატარა ასო';
+$_['error_password_number']    = 'ციფრი';
+$_['error_password_symbol']    = 'სიმბოლო';
+$_['error_password_length']    = 'პაროლი უნდა შედგებოდეს %d-დან 40 სიმბოლომდე!';
+$_['error_confirm']            = 'პაროლის დადასტურება არ ემთხვევა პაროლს!';

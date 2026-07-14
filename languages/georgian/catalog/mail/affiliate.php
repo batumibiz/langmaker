@@ -1,20 +1,20 @@
 <?php
 // Text
-$_['text_subject']        = '%s - Affiliate Program';
-$_['text_welcome']        = 'Thank you for joining the %s Affiliate Program!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_service']        = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_affiliate']  = 'New Affiliate';
-$_['text_signup']         = 'A new affiliate has signed up:';
-$_['text_website']        = 'Web Site:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_company']        = 'Company:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_subject']        = '%s - პარტნიორული პროგრამა';
+$_['text_welcome']        = 'გმადლობთ, რომ შეუერთდით %s-ის პარტნიორულ პროგრამას!';
+$_['text_login']          = 'თქვენი ანგარიში წარმატებით შეიქმნა და შეგიძლიათ შეხვიდეთ სისტემაში თქვენი ელ. ფოსტისა და პაროლის გამოყენებით ჩვენს ვებგვერდზე ან შემდეგ ბმულზე:';
+$_['text_approval']       = 'თქვენი ანგარიში საჭიროებს დადასტურებას შესვლამდე. დადასტურების შემდეგ შეძლებთ სისტემაში შესვლას თქვენი ელ. ფოსტისა და პაროლის გამოყენებით ჩვენს ვებგვერდზე ან შემდეგ ბმულზე:';
+$_['text_service']        = 'სისტემაში შესვლის შემდეგ შეძლებთ თრექინგ კოდების გენერირებას, საკომისიო გადახდების თვალყურის დევნებას და თქვენი ანგარიშის ინფორმაციის რედაქტირებას.';
+$_['text_thanks']         = 'მადლობით,';
+$_['text_new_affiliate']  = 'ახალი პარტნიორი';
+$_['text_signup']         = 'დარეგისტრირდა ახალი პარტნიორი:';
+$_['text_website']        = 'ვებგვერდი:';
+$_['text_customer_group'] = 'მომხმარებელთა ჯგუფი:';
+$_['text_firstname']      = 'სახელი:';
+$_['text_lastname']       = 'გვარი:';
+$_['text_company']        = 'კომპანია:';
+$_['text_email']          = 'ელ. ფოსტა:';
+$_['text_telephone']      = 'ტელეფონი:';
 
 // Button
-$_['button_login']        = 'Login';
+$_['button_login']        = 'ავტორიზაცია';

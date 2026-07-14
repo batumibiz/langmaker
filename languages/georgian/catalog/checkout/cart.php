@@ -4,23 +4,23 @@ $_['heading_title']              = 'კალათა';
 
 // Text
 $_['text_success']               = '<a href="%s">%s</a> დამატებულია <a href="%s">კალათაში</a>!';
-$_['text_edit']                  = 'Success: You have modified your shopping cart!';
+$_['text_edit']                  = 'წარმატება: თქვენი კალათა განახლდა!';
 $_['text_remove']                = 'კალათა წარმატებით განახლდა!';
-$_['text_login']                 = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
+$_['text_login']                 = 'ყურადღება: ფასების სანახავად საჭიროა <a href="%s">გაიაროთ ავტორიზაცია</a> ან <a href="%s">შექმნათ ანგარიში</a>!';
 $_['text_no_results']            = 'თქვენი კალათა ცარიელია!';
-$_['text_model']                 = 'Model';
-$_['text_subscription']          = 'Subscription';
-$_['text_subscription_trial']    = '%s every %d %s(s) for %d payment(s) then ';
-$_['text_subscription_duration'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_subscription_cancel']   = '%s every %d %s(s) until canceled';
-$_['text_day']                   = 'day';
-$_['text_week']                  = 'week';
-$_['text_semi_month']            = 'half-month';
-$_['text_month']                 = 'month';
-$_['text_year']                  = 'year';
+$_['text_model']                 = 'მოდელი';
+$_['text_subscription']          = 'გამოწერა';
+$_['text_subscription_trial']    = '%s ყოველ %d %s-ში, %d გადახდისთვის, შემდეგ ';
+$_['text_subscription_duration'] = '%s ყოველ %d %s-ში, %d გადახდისთვის';
+$_['text_subscription_cancel']   = '%s ყოველ %d %s-ში, გაუქმებამდე';
+$_['text_day']                   = 'დღე';
+$_['text_week']                  = 'კვირა';
+$_['text_semi_month']            = 'ნახევარი თვე';
+$_['text_month']                 = 'თვე';
+$_['text_year']                  = 'წელი';
 $_['text_points']                = 'სასაჩუქრე ქულა: %s';
-$_['text_next']                  = 'What would you like to do next?';
-$_['text_next_choice']           = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
+$_['text_next']                  = 'რისი გაკეთება გსურთ შემდეგ?';
+$_['text_next_choice']           = 'აირჩიეთ, თუ გსურთ ფასდაკლების კოდის ან საჩუქრის ქულების გამოყენება, ან მიწოდების ღირებულების გამოთვლა.';
 
 // Column
 $_['column_image']               = 'სურათი';
@@ -30,9 +30,9 @@ $_['column_price']               = 'ერთ. ღირებულება';
 $_['column_total']               = 'სულ';
 
 // Error
-$_['error_stock']                = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']              = 'Minimum order amount for %s is %s!';
-$_['error_required']             = '%s required!';
-$_['error_regex']                = '%s is not a valid input!';
-$_['error_product']              = 'Warning: There are no products in your cart!';
-$_['error_subscription']         = 'Subscription Plan is not valid!';
+$_['error_stock']                = 'პროდუქტები, რომლებიც მონიშნულია *** ნიშნით, არ არის ხელმისაწვდომი მოთხოვნილი რაოდენობით ან არ არის საწყობში!';
+$_['error_minimum']              = '%s-ის მინიმალური შეკვეთის ოდენობაა %s!';
+$_['error_required']             = '%s სავალდებულოა!';
+$_['error_regex']                = '%s არასწორი მნიშვნელობაა!';
+$_['error_product']              = 'გაფრთხილება: თქვენს კალათაში პროდუქტები არ არის!';
+$_['error_subscription']         = 'გამოწერის გეგმა არასწორია!';

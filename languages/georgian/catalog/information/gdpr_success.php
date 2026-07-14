@@ -1,8 +1,8 @@
 <?php
 // Heading
-$_['heading_title'] = 'GDPR Success';
+$_['heading_title'] = 'GDPR წარმატებით';
 
 // Text
-$_['text_account']  = 'Account';
-$_['text_export']   = 'A request to export your account data has been received.';
-$_['text_remove']   = 'GDPR account deletion requests will process after <strong>%s days</strong> so any chargebacks, refunds or fraud detection can be processed.';
+$_['text_account']  = 'ანგარიში';
+$_['text_export']   = 'თქვენი ანგარიშის მონაცემების ექსპორტის მოთხოვნა მიღებულია.';
+$_['text_remove']   = 'GDPR ანგარიშის წაშლის მოთხოვნები დამუშავდება <strong>%s დღის</strong> შემდეგ, რათა შესაძლებელი იყოს დავალიანების გადახდის, თანხის დაბრუნების ან თაღლითობის აღმოჩენის პროცედურების დასრულება.';

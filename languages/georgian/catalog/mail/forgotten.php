@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Password reset request';
-$_['text_greeting'] = 'A new password was requested for %s customer account.';
-$_['text_change']   = 'To reset your password click on the link below:';
-$_['text_ip']       = 'The IP used to make this request was:';
+$_['text_subject']  = '%s - პაროლის აღდგენის მოთხოვნა';
+$_['text_greeting'] = '%s მომხმარებლის ანგარიშისთვის მოთხოვნილია ახალი პაროლი.';
+$_['text_change']   = 'პაროლის გადასატვირთად დააჭირეთ ქვემოთ მოცემულ ბმულს:';
+$_['text_ip']       = 'ამ მოთხოვნის გასაკეთებლად გამოყენებული IP მისამართია:';
 
 // Button
-$_['button_reset']  = 'Reset Password';
+$_['button_reset']  = 'პაროლის გადატვირთვა';
