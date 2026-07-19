@@ -23,4 +23,5 @@ $_['text_zone']       = 'Регион';
 $_['text_history']    = 'История входа в систему';
 $_['text_ip']         = 'IP';
 $_['text_date_added'] = 'Дата';
+$_['text_contact']    = 'For more information you can contact the store owner here:';
 $_['text_thanks']     = 'Спасибо,';

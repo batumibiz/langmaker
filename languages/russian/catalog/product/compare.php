@@ -10,7 +10,6 @@ $_['text_price']        = 'Цена';
 $_['text_model']        = 'Модель';
 $_['text_manufacturer'] = 'Производитель';
 $_['text_availability'] = 'Наличие';
-$_['text_instock']      = 'Есть на складе';
 $_['text_rating']       = 'Рейтинг';
 $_['text_reviews']      = 'Всего отзывов: %s';
 $_['text_summary']      = 'Краткое описание';

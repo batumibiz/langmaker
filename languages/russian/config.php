@@ -10,7 +10,7 @@ return [
 	'install' => [
 		'name'        => 'Русский язык',
 		'description' => "Русская локализация для OpenCart",
-		'version'     => '1.0',
+		'version'     => '1.1',
 		'author'      => 'opencart-russia',
 		'link'        => 'http://opencart-russia.ru/'
 	]

@@ -16,6 +16,7 @@ $_['column_status']        = 'Статус';
 $_['column_ip']            = 'IP';
 $_['column_call']          = 'Вызов';
 $_['column_date_added']    = 'Дата добавления';
+$_['column_date_modified'] = 'Date modified';
 $_['column_action']        = 'Действие';
 
 // Entry

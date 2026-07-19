@@ -18,6 +18,7 @@ $_['text_file']          = 'Файл';
 $_['text_date']          = 'Дата';
 $_['text_datetime']      = 'Дата и время';
 $_['text_time']          = 'Время';
+$_['text_regex']         = 'Regex';
 $_['text_option']        = 'Опция';
 $_['text_value']         = 'Значение';
 
@@ -29,9 +30,13 @@ $_['column_action']      = 'Действие';
 // Entry
 $_['entry_name']         = 'Название опции';
 $_['entry_type']         = 'Тип';
+$_['entry_validation']   = 'Validation';
 $_['entry_option_value'] = 'Значение опции';
 $_['entry_image']        = 'Изображение';
 $_['entry_sort_order']   = 'Порядок сортировки';
+
+// Help
+$_['help_regex']         = 'Use regex. E.g: /[^a-zA-Z0-9_-]/';
 
 // Error
 $_['error_warning']      = 'Внимание: Проверьте форму на наличие ошибок!';

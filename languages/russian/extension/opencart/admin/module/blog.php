@@ -23,7 +23,7 @@ $_['entry_limit']      = 'Лимит';
 $_['entry_width']      = 'Ширина изображения';
 $_['entry_height']     = 'Высота изображения';
 $_['entry_order']      = 'Порядок';
-$_['entry_sort']       = 'Сортировка';
+$_['entry_sort']   	   = 'Сортировка';
 $_['entry_status']     = 'Статус';
 
 // Error

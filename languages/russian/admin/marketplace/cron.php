@@ -20,9 +20,9 @@ $_['column_date_added']    = 'Дата создания';
 $_['column_date_modified'] = 'Дата изменения';
 $_['column_action']        = 'Действие';
 
-// entry
+// Entry
 $_['entry_cron']           = 'Cron URL';
 $_['entry_description']    = 'Описание';
 
 // Error
-$_['error_permission']  = 'Внимание: У Вас нет прав для управления задачами!';
+$_['error_permission']     = 'Внимание: У Вас нет прав для управления задачами!';

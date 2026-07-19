@@ -1,29 +1,34 @@
 <?php
 // Heading
-$_['heading_title']         = 'Профиль';
+$_['heading_title']            = 'Профиль';
 
 // Text
-$_['text_success']          = 'Настройки успешно изменены!';
-$_['text_edit']             = 'Редактировать';
-$_['text_user']             = 'Сведения о пользователях';
-$_['text_password']         = 'Пароль';
+$_['text_success']             = 'Настройки успешно изменены!';
+$_['text_edit']                = 'Редактировать';
+$_['text_user']                = 'Сведения о пользователях';
+$_['text_password']            = 'Пароль';
 
 // Entry
-$_['entry_username']        = 'Логин';
-$_['entry_password']        = 'Пароль';
-$_['entry_confirm']         = 'Подтвердите пароль';
-$_['entry_firstname']       = 'Имя';
-$_['entry_lastname']        = 'Фамилия';
-$_['entry_email']           = 'E-Mail';
-$_['entry_image']           = 'Изображение';
+$_['entry_username']           = 'Логин';
+$_['entry_password']           = 'Пароль';
+$_['entry_confirm']            = 'Подтвердите пароль';
+$_['entry_firstname']          = 'Имя';
+$_['entry_lastname']           = 'Фамилия';
+$_['entry_email']              = 'E-Mail';
+$_['entry_image']              = 'Изображение';
 
 // Error
-$_['error_permission']      = 'Внимание: У вас нет разрешения на изменение вашего профиля!';
-$_['error_username_exists'] = 'Внимание: Логин пользователя уже используется!';
-$_['error_username']        = 'Логин пользователя должно содержать от 3 до 20 символов!';
-$_['error_password']        = 'Пароль должен содержать от 4 до 20 символов!';
-$_['error_confirm']         = 'Пароль и подтверждение пароля не совпадают!';
-$_['error_firstname']       = 'Имя должно содержать от 1 до 32 символов!';
-$_['error_lastname']        = 'Фамилия должна состоять от 1 до 32 символов!';
-$_['error_email']           = 'Адрес электронной почты, по-видимому, недействителен!';
-$_['error_email_exists']    = 'Внимание: Адрес электронной почты уже зарегистрирован!';
+$_['error_permission']         = 'Внимание: У вас нет разрешения на изменение вашего профиля!';
+$_['error_username_exists']    = 'Внимание: Логин пользователя уже используется!';
+$_['error_username']           = 'Логин пользователя должно содержать от 3 до 20 символов!';
+$_['error_firstname']          = 'Имя должно содержать от 1 до 32 символов!';
+$_['error_lastname']           = 'Фамилия должна состоять от 1 до 32 символов!';
+$_['error_email']              = 'Адрес электронной почты, по-видимому, недействителен!';
+$_['error_email_exists']       = 'Внимание: Адрес электронной почты уже зарегистрирован!';
+$_['error_password']           = 'Пароль должен содержать от 4 до 20 символов!';
+$_['error_password_uppercase'] = 'uppercase';
+$_['error_password_lowercase'] = 'lowercase';
+$_['error_password_number']    = 'number';
+$_['error_password_symbol']    = 'symbol';
+$_['error_password_length']    = 'Password must be between %d and 20 characters!';
+$_['error_confirm']            = 'Пароль и подтверждение пароля не совпадают!';

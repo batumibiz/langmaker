@@ -3,7 +3,6 @@
 $_['heading_title']          = 'Администрирование';
 
 // Text
-$_['text_notification']      = 'Уведомления';
 $_['text_notification_all']  = 'Показать все';
 $_['text_notification_none'] = 'Нет новых уведомлений';
 $_['text_profile']           = 'Ваш профиль';

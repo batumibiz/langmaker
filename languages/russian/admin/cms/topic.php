@@ -8,7 +8,10 @@ $_['text_list']               = 'Список рубрик';
 $_['text_add']                = 'Добавить';
 $_['text_edit']               = 'Редактировать';
 $_['text_default']            = 'По умолчанию';
+$_['text_general']            = 'General';
+$_['text_meta']               = 'Meta Tags';
 $_['text_keyword']            = 'Не используйте пробелы, вместо этого замените пробелы на тире - и убедитесь, что SEO URL является глобально уникальным.';
+$_['text_seo']                = 'SEO URL';
 
 // Column
 $_['column_name']             = 'Название';
@@ -26,6 +29,7 @@ $_['entry_store']             = 'Магазин';
 $_['entry_sort_order']        = 'Порядок сортировки';
 $_['entry_status']            = 'Статус';
 $_['entry_keyword']           = 'SEO URL';
+$_['entry_layout']            = 'Layout Override';
 
 // Error
 $_['error_warning']           = 'Внимательно проверьте форму на ошибки!';

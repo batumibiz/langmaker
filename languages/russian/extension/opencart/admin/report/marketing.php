@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']    = 'Маркетинговый отчет';
+$_['heading_title']      = 'Маркетинговый отчет';
 
 // Text
-$_['text_extension']   = 'Расширения';
-$_['text_edit']        = 'Редактирование';
-$_['text_success']     = 'Настройки успешно изменены!';
-$_['text_filter']      = 'Фильтр';
-$_['text_all_status']  = 'Все статусы';
+$_['text_extension']     = 'Расширения';
+$_['text_edit']          = 'Редактирование';
+$_['text_success']       = 'Настройки успешно изменены!';
+$_['text_filter']        = 'Фильтр';
+$_['text_all_status']    = 'Все статусы';
 
 // Column
-$_['column_campaign']  = 'Название кампании';
-$_['column_code']      = 'Код';
-$_['column_clicks']    = 'Кликов';
-$_['column_orders']    = 'Заказов';
-$_['column_total']     = 'Итого';
+$_['column_campaign']    = 'Название кампании';
+$_['column_code']        = 'Код';
+$_['column_clicks']      = 'Кликов';
+$_['column_orders']      = 'Заказов';
+$_['column_total']       = 'Итого';
 
 // Entry
 $_['entry_date_start']   = 'Дата начала';

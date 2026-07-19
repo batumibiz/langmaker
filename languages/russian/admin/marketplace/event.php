@@ -14,9 +14,9 @@ $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_description']  = 'Описание';
-$_['entry_trigger']      = 'Триггер';
-$_['entry_action']       = 'Действие';
+$_['entry_description'] = 'Описание';
+$_['entry_trigger']     = 'Триггер';
+$_['entry_action']      = 'Действие';
 
 // Error
 $_['error_permission']  = 'У Вас нет прав для изменения настроек!';

@@ -1,22 +1,26 @@
 <?php
 // Heading
-$_['heading_title']   = 'Забыли пароль?';
-$_['heading_reset']   = 'Сбросить пароль';
+$_['heading_title']            = 'Забыли пароль?';
+$_['heading_reset']            = 'Сбросить пароль';
 
 // Text
-$_['text_email']      = 'Введите адрес электронной почты, связанный с Вашей учетной записью. Перейдите по ссылке сброса пароля, отправленной вам по электронной почте.';
-$_['text_success']    = 'Ссылка для подтверждения была отправлена на ваш адрес электронной почты.';
-$_['text_password']   = 'Новый пароль.';
-$_['text_reset']      = 'Пароль обновлен.';
+$_['text_email']               = 'Введите адрес электронной почты, связанный с Вашей учетной записью. Перейдите по ссылке сброса пароля, отправленной вам по электронной почте.';
+$_['text_success']             = 'Ссылка для подтверждения была отправлена на ваш адрес электронной почты.';
+$_['text_password']            = 'Новый пароль.';
+$_['text_reset']               = 'Пароль обновлен.';
 
 // Entry
-$_['entry_password'] = 'Новый пароль';
-$_['entry_confirm']  = 'Повтор пароля';
-$_['entry_email']    = 'E-Mail';
+$_['entry_password']           = 'Новый пароль';
+$_['entry_confirm']            = 'Повтор пароля';
+$_['entry_email']              = 'E-Mail';
 
 // Error
-$_['error_email']    = 'Указанный E-Mail не найден';
-$_['error_code']     = 'Код сброса неверный!';
-$_['error_disabled'] = 'Сброс пароля отключен!';
-$_['error_password'] = 'Пароль должен содержать от 4 до 20 символов!';
-$_['error_confirm']  = 'Пароли не совпадают!';
+$_['error_email']              = 'Указанный E-Mail не найден';
+$_['error_code']               = 'Код сброса неверный!';
+$_['error_password']           = 'Пароль должен содержать от 4 до 20 символов!';
+$_['error_password_uppercase'] = 'uppercase';
+$_['error_password_lowercase'] = 'lowercase';
+$_['error_password_number']    = 'number';
+$_['error_password_symbol']    = 'symbol';
+$_['error_password_length']    = 'Password must be between %d and 40 characters!';
+$_['error_confirm']            = 'Пароли не совпадают!';

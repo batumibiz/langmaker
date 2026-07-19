@@ -38,7 +38,7 @@ $_['text_documentation'] = 'Документация включена';
 $_['text_sales']         = 'Продаж';
 $_['text_comment']       = 'Комментарии';
 $_['text_download']      = 'Загрузка';
-$_['text_install']       = 'Установка';
+$_['text_install']       = 'Установить';
 $_['text_comment_add']   = 'Оставьте свой комментарий';
 $_['text_write']         = 'Напишите свой комментарий тут..';
 $_['text_purchase']      = 'Пожалуйста, подтвердите, кто вы!';
@@ -56,13 +56,13 @@ $_['text_refresh']       = 'обновить';
 // Entry
 $_['entry_pin']          = 'PIN';
 
-// Tab
+// Tabs
 $_['tab_description']    = 'Описание';
 $_['tab_documentation']  = 'Документация';
 $_['tab_download']       = 'Файлы';
 $_['tab_comment']        = 'Комментарии';
 
-// Button
+// Buttons
 $_['button_api']         = 'API Магазина';
 $_['button_purchase']    = 'Купить';
 $_['button_view_all']    = 'Посмотреть все расширения';

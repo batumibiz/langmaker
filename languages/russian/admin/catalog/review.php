@@ -35,6 +35,7 @@ $_['help_product']      = '(Автозаполнение)';
 $_['button_rating']     = 'Синхронизировать рейтинги товаров';
 
 // Error
+$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
 $_['error_permission']  = 'У Вас нет прав для изменения отзывов!';
 $_['error_product']     = 'Требуется выбрать товар!';
 $_['error_author']      = 'Имя автора должно содержать от 3 до 64 символов!';
