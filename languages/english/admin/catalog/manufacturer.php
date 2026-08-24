@@ -10,7 +10,6 @@ $_['text_edit']               = 'Edit Manufacturer';
 $_['text_general']            = 'General';
 $_['text_meta']               = 'Meta Tags';
 $_['text_keyword']            = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
-$_['text_filter']             = 'Filter';
 $_['text_general']            = 'General';
 $_['text_seo']                = 'SEO URL';
 
@@ -31,6 +30,7 @@ $_['entry_keyword']           = 'Keyword';
 $_['entry_image']             = 'Image';
 $_['entry_sort_order']        = 'Sort Order';
 $_['entry_layout']            = 'Layout Override';
+$_['entry_select_store']      = '-- Please select a store --';
 
 // Error
 $_['error_warning']           = 'Warning: Please check the form carefully for errors!';

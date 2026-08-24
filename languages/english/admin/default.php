@@ -35,6 +35,7 @@ $_['text_month_ago']                = '%s month ago';
 $_['text_months_ago']               = '%s months ago';
 $_['text_year_ago']                 = '%s year ago';
 $_['text_years_ago']                = '%s years ago';
+$_['text_filter']                   = 'Filter';
 
 // Buttons
 $_['button_add']                    = 'Add New';
@@ -46,7 +47,7 @@ $_['button_confirm']                = 'Confirm';
 $_['button_clear']                  = 'Clear';
 $_['button_enable']                 = 'Enable';
 $_['button_disable']                = 'Disable';
-$_['button_filter']                 = 'Filter';
+$_['button_filter']                 = 'Apply Filter';
 $_['button_send']                   = 'Send';
 $_['button_edit']                   = 'Edit';
 $_['button_copy']                   = 'Copy';
