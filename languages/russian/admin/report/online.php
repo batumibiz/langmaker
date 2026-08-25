@@ -6,7 +6,6 @@ $_['heading_title']     = 'Online отчет';
 $_['text_extension']    = 'Расширения';
 $_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Список клиентов online';
-$_['text_filter']       = 'Фильтр';
 $_['text_guest']        = 'Гость';
 
 // Column

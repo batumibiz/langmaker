@@ -8,7 +8,6 @@ $_['text_list']             = 'Лист одобрения клиентов';
 $_['text_default']          = 'По умолчанию';
 $_['text_customer']         = 'Клиент';
 $_['text_affiliate']        = 'Партнер';
-$_['text_filter']           = 'Фильтр';
 $_['text_approve']          = 'Одобрить';
 $_['text_deny']             = 'Запретить';
 

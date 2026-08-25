@@ -35,6 +35,7 @@ $_['text_month_ago']                = '%s месяц назад';
 $_['text_months_ago']               = '%s месяцев назад';
 $_['text_year_ago']                 = '%s год назад';
 $_['text_years_ago']                = '%s года назад';
+$_['text_filter']                   = 'Фильтр';
 
 // Buttons
 $_['button_add']                    = 'Добавить';

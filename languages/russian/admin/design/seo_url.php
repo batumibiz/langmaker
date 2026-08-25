@@ -7,7 +7,6 @@ $_['text_success']            = 'Настройки успешно измене�
 $_['text_list']               = 'Список правил SEO URL';
 $_['text_add']                = 'Добавить';
 $_['text_edit']               = 'Редактировать';
-$_['text_filter']             = 'Фильтр';
 $_['text_default']            = 'По умолчанию';
 
 // Column

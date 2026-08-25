@@ -10,7 +10,7 @@ $_['text_edit']               = 'Редактирование';
 $_['text_general']            = 'Описание';
 $_['text_meta']               = 'Мета-тэги';
 $_['text_keyword']            = 'Должно быть уникальным на всю систему и без пробелов.';
-$_['text_filter']             = 'Filter';
+$_['text_general']            = 'Описание';
 $_['text_seo']                = 'SEO URL';
 
 // Column
@@ -30,6 +30,7 @@ $_['entry_keyword']           = 'SEO URL';
 $_['entry_image']             = 'Изображение';
 $_['entry_sort_order']        = 'Порядок сортировки';
 $_['entry_layout']            = 'Макет';
+$_['entry_select_store']      = '-- Please select a store --';
 
 // Error
 $_['error_warning']           = 'Внимание: Проверьте форму на наличие ошибок!';

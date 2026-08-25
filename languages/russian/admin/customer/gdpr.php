@@ -16,7 +16,6 @@ $_['text_complete']     = 'Завершено';
 $_['text_denied']       = 'Отказано';
 $_['text_export']       = 'Экспорт';
 $_['text_remove']       = 'Удалить';
-$_['text_filter']       = 'Фильтр';
 
 // Column
 $_['column_email']      = 'E-Mail';

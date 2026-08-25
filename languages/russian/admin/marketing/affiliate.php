@@ -19,7 +19,6 @@ $_['text_history_add']          = 'Добавить в историю';
 $_['text_transaction']          = 'Транзакции';
 $_['text_transaction_add']      = 'Добавить транзакцию';
 $_['text_report']               = 'Отчет';
-$_['text_filter']               = 'Фильтр';
 
 // Column
 $_['column_name']               = 'Имя клиента';

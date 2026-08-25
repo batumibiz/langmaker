@@ -8,7 +8,6 @@ $_['text_list']           = 'Список возвратов';
 $_['text_add']            = 'Добавить';
 $_['text_edit']           = 'Возврат (#%s)';
 $_['text_order_id']       = '№ заказа';
-$_['text_filter']         = 'Фильтр';
 $_['text_customer']       = 'Клиент';
 $_['text_date_added']     = 'Дата добавления';
 $_['text_return']         = 'Возврат товара';

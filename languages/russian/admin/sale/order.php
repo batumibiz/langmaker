@@ -7,7 +7,6 @@ $_['text_success']               = 'Заказы успешно изменены
 $_['text_list']                  = 'Список заказов';
 $_['text_add']                   = 'Добавить';
 $_['text_edit']                  = '<span class="lead"><strong>Заказ № %s</strong></span>';
-$_['text_filter']                = 'Фильтр';
 $_['text_store']                 = 'Магазин';
 $_['text_date_added']            = 'Дата';
 $_['text_customer']              = 'Клиент';

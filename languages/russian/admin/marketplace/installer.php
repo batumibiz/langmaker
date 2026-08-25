@@ -43,6 +43,7 @@ $_['error_directory_exists'] = 'Путь %s уже существует!';
 $_['error_unzip']            = 'Не удалось открыть Zip-файл!';
 $_['error_upload']           = 'Файл не удалось загрузить!';
 $_['error_unknown']          = 'An unknown error occurred!';
+$_['error_upload_size']      = 'Предупреждение: размер загруженного файла превышает директивы upload_max_filesize и post_max_size %sM в php.ini';
 
 // Zip errors
 $_['zip_error_exists']       = 'File already exists!';

@@ -5,7 +5,6 @@ $_['heading_title']      = 'Внешние загрузки';
 // Text
 $_['text_success']       = 'Выполнено!';
 $_['text_list']          = 'Внешние загрузки';
-$_['text_filter']        = 'Фильтр';
 
 // Column
 $_['column_name']        = 'Название Файла';

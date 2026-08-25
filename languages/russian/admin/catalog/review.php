@@ -8,7 +8,6 @@ $_['text_next']         = 'Вы изменили %s на %s из %s оценок
 $_['text_list']         = 'Отзывы';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
-$_['text_filter']       = 'Фильтр';
 
 // Column
 $_['column_product']    = 'Товар';

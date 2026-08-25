@@ -12,7 +12,6 @@ $_['text_password']            = 'Пароль';
 $_['text_other']               = 'Другое';
 $_['text_login']               = 'История входа в магазин';
 $_['text_authorize']           = 'История авторизации';
-$_['text_filter']              = 'Фильтр';
 
 // Column
 $_['column_username']          = 'Логин';
