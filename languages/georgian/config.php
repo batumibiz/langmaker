@@ -10,7 +10,7 @@ return [
 	'install' => [
 		'name'        => 'ქართული',
 		'description' => "ქართული ენა OpenCart-ისთვის. თარგმნილია მხოლოდ კატალოგი.",
-		'version'     => '1.1',
+		'version'     => '1.1.0',
 		'author'      => 'iSOAP Natural Handmade Soap & SPA',
 		'link'        => 'https://isoap.ge'
 	]

@@ -27,7 +27,7 @@ The tool allows you to compare a base (source) language with a target language s
 
 ## Requirements
 
-To use this tool, you must have PHP 8.1 or newer available via the command line (CLI), with the `zip` extension enabled. While `make` is recommended, it is optional; you can still use the tool without it by directly invoking the required PHP scripts.
+To use this tool, you must have PHP 8.2 or newer available via the command line (CLI), with the `zip` extension enabled. While `make` is recommended, it is optional; you can still use the tool without it by directly invoking the required PHP scripts.
 
 ## Usage
 
