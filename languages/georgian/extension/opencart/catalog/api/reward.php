@@ -1,11 +1,11 @@
 <?php
 // Text
-$_['text_success']   = 'Success: Your reward points discount has been applied!';
+$_['text_success']   = 'წარმატება: თქვენი ჯილდოს ქულების ფასდაკლება გამოყენებულია!';
 
 // Error
-$_['error_customer'] = 'Warning: Customer details required!';
-$_['error_product']  = 'Warning: Products required!';
-$_['error_points']   = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']  = 'Warning: The maximum number of points that can be applied is %s!';
-$_['error_status']   = 'Warning: Reward points are not enabled on this store!';
-$_['error_confirm']  = 'Warning: Please check the reward form carefully for errors!';
+$_['error_customer'] = 'გაფრთხილება: საჭიროა მომხმარებლის დეტალები!';
+$_['error_product']  = 'გაფრთხილება: საჭიროა პროდუქტები!';
+$_['error_points']   = 'გაფრთხილება: თქვენ არ გაქვთ %s ჯილდოს ქულა!';
+$_['error_maximum']  = 'გაფრთხილება: მაქსიმალური რაოდენობა ქულების, რომელთა გამოყენებაც შესაძლებელია, არის %s!';
+$_['error_status']   = 'გაფრთხილება: ჯილდოს ქულები არ არის ჩართული ამ მაღაზიაში!';
+$_['error_confirm']  = 'გაფრთხილება: გთხოვთ, ყურადღებით შეამოწმოთ ჯილდოს ფორმა შეცდომებზე!';

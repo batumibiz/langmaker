@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']    = 'Cheque / Money Order';
+$_['heading_title']    = 'ჩეკი / ფულადი გზავნილი';
 
 // Text
-$_['text_instruction'] = 'Cheque / Money Order Instructions';
-$_['text_payable']     = 'Make Payable To: ';
-$_['text_address']     = 'Send To: ';
-$_['text_payment']     = 'Your order will not ship until we receive payment.';
+$_['text_instruction'] = 'ჩეკის / ფულადი გზავნილის ინსტრუქციები';
+$_['text_payable']     = 'გადამხდელი: ';
+$_['text_address']     = 'გაგზავნის მისამართი: ';
+$_['text_payment']     = 'თქვენი შეკვეთა არ გაიგზავნება, სანამ არ მივიღებთ გადახდას.';

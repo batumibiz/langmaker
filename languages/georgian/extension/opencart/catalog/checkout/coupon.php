@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Coupon Code';
+$_['heading_title'] = 'გამოიყენეთ კუპონის კოდი';
 
 // Text
-$_['text_success']  = 'Success: Your coupon discount has been applied!';
+$_['text_success']  = 'წარმატება: თქვენი კუპონის ფასდაკლება გამოყენებულია!';
 
 // Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+$_['entry_coupon']  = 'შეიყვანეთ თქვენი კუპონი აქ';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_status']  = 'Warning: Coupons are not enabled on this store!';
+$_['error_coupon']  = 'გაფრთხილება: კუპონი არასწორია, ვადაგასულია ან მიაღწია გამოყენების ლიმიტს!';
+$_['error_status']  = 'გაფრთხილება: კუპონები არ არის ჩართული ამ მაღაზიაში!';

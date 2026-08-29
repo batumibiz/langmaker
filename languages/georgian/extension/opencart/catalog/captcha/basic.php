@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_captcha']  = 'Captcha';
+$_['text_captcha']  = 'კაპჩა';
 
 // Entry
-$_['entry_captcha'] = 'Enter the code in the box below';
+$_['entry_captcha'] = 'შეიყვანეთ კოდი ქვემოთ მოცემულ ველში';
 
 // Error
-$_['error_captcha'] = 'Verification code does not match the image!';
+$_['error_captcha'] = 'ვერიფიკაციის კოდი არ ემთხვევა სურათს!';

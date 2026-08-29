@@ -1,8 +1,8 @@
 <?php
 // Heading
-$_['heading_title']    = 'Bank Transfer';
+$_['heading_title']    = 'საბანკო გადარიცხვა';
 
 // Text
-$_['text_instruction'] = 'Bank Transfer Instructions';
-$_['text_description'] = 'Please transfer the total amount to the following bank account.';
-$_['text_payment']     = 'Your order will not ship until we receive payment.';
+$_['text_instruction'] = 'საბანკო გადარიცხვის ინსტრუქციები';
+$_['text_description'] = 'გთხოვთ, გადარიცხოთ სრული თანხა შემდეგ საბანკო ანგარიშზე.';
+$_['text_payment']     = 'თქვენი შეკვეთა არ გაიგზავნება, სანამ არ მივიღებთ გადახდას.';

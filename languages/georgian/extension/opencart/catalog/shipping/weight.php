@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Weight Based Shipping';
+$_['heading_title'] = 'წონაზე დაფუძნებული მიწოდება';
 
 // Text
-$_['text_weight']   = 'Weight:';
+$_['text_weight']   = 'წონა:';
